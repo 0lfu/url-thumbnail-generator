@@ -1,3 +1,4 @@
 composer.json
 composer.lock
 yt-dlp.exe
+vendor
